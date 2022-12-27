@@ -2,9 +2,10 @@
 //--//-->   STYLES GENERALES
 ======================================*/
 
+
 body {
   background-color: #000000;
-  color: #ffffff;
+  color: #ffffff; /*text color*/
 }
 
 h1,
